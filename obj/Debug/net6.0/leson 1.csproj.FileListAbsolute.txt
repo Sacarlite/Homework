@@ -1,0 +1,15 @@
+C:\Gb\leson 1 c#\leson 1\bin\Debug\net6.0\leson 1.exe
+C:\Gb\leson 1 c#\leson 1\bin\Debug\net6.0\leson 1.deps.json
+C:\Gb\leson 1 c#\leson 1\bin\Debug\net6.0\leson 1.runtimeconfig.json
+C:\Gb\leson 1 c#\leson 1\bin\Debug\net6.0\leson 1.dll
+C:\Gb\leson 1 c#\leson 1\bin\Debug\net6.0\leson 1.pdb
+C:\Gb\leson 1 c#\leson 1\obj\Debug\net6.0\leson 1.csproj.AssemblyReference.cache
+C:\Gb\leson 1 c#\leson 1\obj\Debug\net6.0\leson 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gb\leson 1 c#\leson 1\obj\Debug\net6.0\leson 1.AssemblyInfoInputs.cache
+C:\Gb\leson 1 c#\leson 1\obj\Debug\net6.0\leson 1.AssemblyInfo.cs
+C:\Gb\leson 1 c#\leson 1\obj\Debug\net6.0\leson 1.csproj.CoreCompileInputs.cache
+C:\Gb\leson 1 c#\leson 1\obj\Debug\net6.0\leson 1.dll
+C:\Gb\leson 1 c#\leson 1\obj\Debug\net6.0\refint\leson 1.dll
+C:\Gb\leson 1 c#\leson 1\obj\Debug\net6.0\leson 1.pdb
+C:\Gb\leson 1 c#\leson 1\obj\Debug\net6.0\leson 1.genruntimeconfig.cache
+C:\Gb\leson 1 c#\leson 1\obj\Debug\net6.0\ref\leson 1.dll
